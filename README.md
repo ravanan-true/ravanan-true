@@ -2,23 +2,33 @@
 
 # 👋 Hey, I'm **Ragul B**
 
-### 💻 Full Stack Developer | Java | Web Development
+### 💻 Full Stack Developer
+
+**Java • Spring Boot • JavaScript • MySQL • Web Development**
+
+Building modern, responsive and database-driven web applications.
 
 <br>
 
 <a href="https://portfolio-ravanan-true.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-00D9FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-00D9FF?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/ravanan-true">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:ragul12905@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ravanan-true&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" />
+
+</div>
+
+---
 
 <img src="https://komarev.com/ghpvc/?username=ravanan-true&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
 
