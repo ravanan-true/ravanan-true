@@ -1,212 +1,42 @@
 <div align="center">
 
-# 👋 Hey, I'm **Ragul B**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0891b2&height=220&section=header&text=RAGUL%20B&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=20&descColor=67e8f9"/>
 
-### 💻 Full Stack Developer
+# `Ragul B`
 
-**Java • Spring Boot • JavaScript • MySQL • Web Development**
+### Full Stack Developer
 
-Building modern, responsive and database-driven web applications.
+**Java · JavaScript · MySQL · Web Development**
+
+Building clean, responsive and database-driven web applications.
 
 <br>
 
 <a href="https://portfolio-ravanan-true.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_PORTFOLIO-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PORTFOLIO-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/ravanan-true">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:ragul12905@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-0891B2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ravanan-true&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ravanan-true&label=PROFILE%20VIEWS&color=0891B2&style=flat-square"/>
 
 </div>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=ravanan-true&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-Hi! I'm **Ragul B**, a **B.Sc Mathematics graduate** and an aspiring **Full Stack Developer** from Tamil Nadu.
-
-I enjoy building complete web applications by working across the **frontend, backend and database layers**.
-
-I like turning ideas into functional, responsive and user-friendly applications while continuously improving my programming and problem-solving skills.
-
-- 💻 Full Stack Web Development
-- ☕ Java & Java Web Development
-- 🎨 Frontend Development
-- ⚙️ Backend Development
-- 🗄️ MySQL & SQL
-- 🌐 Responsive Web Applications
-- 🧠 Problem Solving & Logical Thinking
-- 🚀 Always learning and building
-
----
-
-## 🧰 Tech Stack
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
-
-**HTML5 • CSS3 • JavaScript • Bootstrap**
-
----
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring" />
-</p>
-
-**Core Java • Java Web • JDBC • Servlets • JSP • Spring Boot**
-
-> Currently learning and improving my Spring Boot skills.
-
----
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-**MySQL • SQL • JDBC Database Connectivity**
-
----
-
-### 🔧 Tools & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
-</p>
-
-**Git • GitHub • VS Code • Eclipse IDE**
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 RAVANAN AI
-
-A modern AI-style web application focused on creating a clean and interactive chat experience.
-
-**Technologies**
-
-`HTML5` `CSS3` `JavaScript` `Bootstrap`
-
-**Features**
-
-- 💬 Interactive chat interface
-- 🔐 Login system
-- 🕘 Chat history
-- ⚙️ Settings
-- 💾 LocalStorage
-- 📱 Responsive design
-- 🎨 Modern user interface
-
----
-
-### 💼 RAVANAN Internship Portal
-
-A full-stack internship management web application designed for **Students, Companies and Administrators**.
-
-**Technologies**
-
-`Java` `JSP` `Servlets` `JDBC` `MySQL` `HTML5` `CSS3` `Bootstrap` `JavaScript`
-
-**Features**
-
-- 👨‍🎓 Student registration and login
-- 🏢 Company registration and login
-- 🔎 Internship search
-- 📋 Internship browsing
-- 📝 Internship application
-- 📄 Resume management
-- 📊 Application status
-- 👨‍💼 Admin management
-- 🗄️ MySQL database integration
-
----
-
-### 🌐 RAVANAN TECHNOLOGIES
-
-A professional multi-page IT company website designed to present company services, projects and team information.
-
-**Technologies**
-
-`HTML5` `CSS3` `Bootstrap` `JavaScript`
-
-**Pages**
-
-`Home` • `About` • `Department` • `Services` • `Projects` • `Team` • `Careers` • `Contact`
-
----
-
-### 📄 Resume Builder
-
-A responsive web-based resume builder that allows users to create and preview professional resumes.
-
-**Technologies**
-
-`HTML5` `CSS3` `JavaScript` `Bootstrap`
-
-**Features**
-
-- 📝 Resume form
-- 👀 Live preview
-- 🎨 Resume templates
-- 📱 Responsive design
-- 🖨️ Print support
-- 📄 PDF-ready resume
-
----
-
-### 🏥 MEDICARE HOSPITAL
-
-A modern frontend hospital website designed with a clean healthcare-focused user interface.
-
-**Technologies**
-
-`HTML5` `CSS3` `Bootstrap` `JavaScript`
-
-**Features**
-
-- 🏥 Hospital information
-- 👨‍⚕️ Doctors section
-- 📅 Appointment interface
-- 💊 Healthcare services
-- 📱 Responsive design
-- 🎨 Modern UI
-
----
-
-## 🧩 Full Stack Development
+## `01` — ABOUT ME
 
 ```text
-                 FULL STACK DEVELOPMENT
-                         │
-        ┌────────────────┼────────────────┐
-        │                │                │
-        ▼                ▼                ▼
-    FRONTEND          BACKEND          DATABASE
-        │                │                │
-   HTML5              Java             MySQL
-   CSS3                JSP              SQL
-   JavaScript          Servlets         JDBC
-   Bootstrap           JDBC
-                       Spring Boot
+Name        : Ragul B
+Role        : Full Stack Developer
+Education   : B.Sc Mathematics
+Location    : Salem, Tamil Nadu
+Focus       : Full Stack Web Development
